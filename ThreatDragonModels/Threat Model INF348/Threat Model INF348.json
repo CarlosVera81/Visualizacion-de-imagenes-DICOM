@@ -2,15 +2,19 @@
   "version": "2.4.1",
   "summary": {
     "title": "Threat Model INF348",
-    "owner": "",
-    "description": "",
+    "owner": "Carlos Vera",
+    "description": "DICOM Image visualizer",
     "id": 0
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "Carlos Vera"
+      }
+    ],
     "diagrams": [],
     "diagramTop": 0,
-    "reviewer": "",
+    "reviewer": "Carlos Vera",
     "threatTop": 0
   }
 }
